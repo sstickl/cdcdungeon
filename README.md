@@ -1,2 +1,2 @@
 # cdcdungeon
-CDC quiz app
+Career Development Course quiz app coded in Rust

@@ -1,0 +1,11 @@
+[package]
+name = "cdcdungeon"
+version = "0.1.0"
+description = "CDC Study project"
+authors = ["Shark <sestickl@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
