@@ -1,15 +1,6 @@
-QDB1 2T251
-[sf, v=3]
-[sv="2T251v1", q=4]
-[q]If you are transporting cargo loads to and from an aircraft, which air transportation function/duties are you performing?[a]Ramp[b]Cargo[c]Load Planning[d]Ramp Controller
-[q]If you are preparing a standby listing, which air transportation function/duties are you performing?[a]Passenger Services[b]ATOC[c]Cargo[d]Load Planning
-[q]If you are the “eyes and ears” of the flight line, which air transportation function/duties are you performing?[a]ATOC[b]Cargo[c]Passenger Services[d]Joint Inspector
-[q]If you are calculating the weight and balance for aircraft, which air transportation function/duties are you performing?[a]Load Planning[b]Cargo[c]ATOC[d]Ramp
-[/s]
-[sv="2T251v2", q=1]
-[q]Dummy question[a]Monkey[b]Airman[c]Airmanmindedness[d]All of the Above
-[/s]
-[sv="2T251v3", q=1]
-[q]Dummy question[a]SilentD[b]E9 Cody[c]E9 Bowser[d]All of the Above
-[/s]
-[/sf]
+QDB1 2T251 3
+2T251v1 4
+If you are transporting cargo loads to and from an aircraft, which air transportation function/duties are you performing?分Ramp円Cargo円Load Planning円Ramp Controller
+If you are transporting cargo loads to and from an aircraft, which air transportation function/duties are you performing?分Ramp1円Cargo2円Load Planning3円Ramp Controller4
+If you are transporting cargo loads to and from an aircraft, which air transportation function/duties are you performing?分Ramp5円Cargo6円Load Planning7円Ramp Controller8
+If you are transporting cargo loads to and from an aircraft, which air transportation function/duties are you performing?分Ramp9円Cargo0円Load Planning1円Ramp Controller2
